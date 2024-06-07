@@ -1,0 +1,1 @@
+// ###Exercise 2 name: Orovwovo E. Oghale Matric no: CMP2307601#include <stdio.h>int main() {    // Loop through numbers 1 to 10 and print each one    for (int i = 1; i <= 10; i++) {        printf("%d\n", i);    }    return 0;
